@@ -6,7 +6,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-    @Override
+    @Override//Third comment
     protected void onCreate(Bundle savedInstanceState) {//Second comment
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);//First comment
